@@ -1,7 +1,7 @@
 ember-starter-app
 =================
 
-Quick starter for when creating a ember.js app.
+Quick starter for when creating a ember.js app with the Zurb Foundation as CSS framework.
 
 1. Set the name of the project:
 
